@@ -54,7 +54,7 @@
     }
   },
   "server": {
-    "host": "flatmarket-netlify.herokuapp.com"
+    "host": "netlify-flatmarket.herokuapp.com"
   },
   "stripe": {
     "allowRememberMe": false,
