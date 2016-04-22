@@ -54,13 +54,13 @@
     }
   },
   "server": {
-    "host": "flatmarket.herokuapp.com"
+    "host": "flatmarket-netlify.herokuapp.com"
   },
   "stripe": {
     "allowRememberMe": false,
     "billingAddress": true,
     "panelLabel": "Buy now {{amount}}",
-    "publishableKey": "pk_test_U3D2c6KZqp7LOiMTzAFBenUe",
+    "publishableKey": "pk_test_c0sqzrHLCG1jVsz9Dv1iczoj",
     "shippingAddress": true
   }
 }
